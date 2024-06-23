@@ -13,15 +13,15 @@ This repository contains a library of my notes on the first half of the content 
 - **Framework:** TensorFlow
   
 ### Course Sections Covered For "TensorFlow"
-- [1 of 9 Introduction]()
-- [2 of 9 Attributes and Class Keyword]()
-- [3 of 9 Class Object Attributes and Methods]()
-- [4 of 9 Inheritance and Polymorphism]()
-- [5 of 9 Special (Magic, Dunder) Methods]()
-- [6 of 9 Homework]()
-- [7 of 9 Homework Solutions]()
-- [8 of 9 Challenge Overview]()
-- [9 of 9 Challenge Solution]()
+- [1 of 9 Introduction](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/1%20of%209%20Introduction.pdf)
+- [2 of 9 Attributes and Class Keyword](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/2%20of%209%20Attributes%20and%20Class%20Keyword.pdf)
+- [3 of 9 Class Object Attributes and Methods](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/3%20of%209%20Class%20Object%20Attributes%20and%20Methods.pdf)
+- [4 of 9 Inheritance and Polymorphism](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/4%20of%209%20Inheritance%20and%20Polymorphism.pdf)
+- [5 of 9 Special (Magic, Dunder) Methods](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/5%20of%209%20Special%20(Magic%2C%20Dunder)%20Methods.pdf)
+- [6 of 9 Homework](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/6%20of%209%20Homework.pdf)
+- [7 of 9 Homework Solutions](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/7%20of%209%20Homework%20Solutions.pdf)
+- [8 of 9 Challenge Overview](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/8%20of%209%20Challenge%20Overview.pdf)
+- [9 of 9 Challenge Solution](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/9%20of%209%20Challenge%20Solution.pdf)
 
 ### To Clone This Repository
 ```
