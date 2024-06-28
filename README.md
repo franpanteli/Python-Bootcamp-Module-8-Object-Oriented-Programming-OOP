@@ -1,29 +1,40 @@
-# Python-Tensorflow-Library
--> text
--> hyperlinked contents
--> git clone link 
--> project files
-### Repository Overview 
+# Module-8-Object-Oriented-Programming
 
-This repository contains a library of my notes on the first half of the content for the "Machine Learning with Python" certification course by freeCodeCamp, which I created as part of self-studying Python and am sharing here for use as a reference resource. The first half of the content in this course covers TensorFlow with Python. This is an extensive library of my notes on this section of the course, covering the fundamental aspects of TensorFlow with Python. This includes essential topics on machine learning, neural networks, natural language processing and reinforcement learning using this (the TensorFlow) framework. This libary consists of 32 PDF files below, each corresponding to a specific video lecture in this section of the course. 
+### Repository Overview
 
-### Course Details For "Machine Learning with Python"
-- **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
-- **Instructor:** Tim Ruscica (Tech With Tim)
-- **Framework:** TensorFlow
-  
-### Course Sections Covered For "TensorFlow"
-- [1 of 9 Introduction](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/1%20of%209%20Introduction.pdf)
-- [2 of 9 Attributes and Class Keyword](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/2%20of%209%20Attributes%20and%20Class%20Keyword.pdf)
-- [3 of 9 Class Object Attributes and Methods](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/3%20of%209%20Class%20Object%20Attributes%20and%20Methods.pdf)
-- [4 of 9 Inheritance and Polymorphism](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/4%20of%209%20Inheritance%20and%20Polymorphism.pdf)
-- [5 of 9 Special (Magic, Dunder) Methods](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/5%20of%209%20Special%20(Magic%2C%20Dunder)%20Methods.pdf)
-- [6 of 9 Homework](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/6%20of%209%20Homework.pdf)
-- [7 of 9 Homework Solutions](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/7%20of%209%20Homework%20Solutions.pdf)
-- [8 of 9 Challenge Overview](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/8%20of%209%20Challenge%20Overview.pdf)
-- [9 of 9 Challenge Solution](https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP/blob/main/Notes%20on%20Videos%20-%20Module%208%20Object%20Oriented%20Programming%20OOP/9%20of%209%20Challenge%20Solution.pdf)
+This repository contains my notes and project files for the eighth module of a Python 'bootcamp' I completed as part of my independent learning. This was an in-depth Udemy course with multiple video lectures and exercises, to be completed in a Jupyter environment. This repository includes my notes on the videos for this module, slides from the lectures, and the project .ipynb files.
+
+### Course Details
+- **Course URL:** [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/?couponCode=ST18MT62524)
+- **Instructor:** Jose Portilla
+- **Language:** Python
+- **Platform:** Udemy
+
+### In-Depth Contents
+This repository is organised into the following sections:
+
+1. **Jupyter Notebooks - Object-Oriented Programming:**
+   This directory contains Jupyter notebooks that cover various aspects of object-oriented programming in Python.
+   - [01-Object Oriented Programming.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/01-Object%20Oriented%20Programming.ipynb)
+   - [02-OOP Attributes and Methods.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/02-OOP%20Attributes%20and%20Methods.ipynb)
+   - [03-OOP Inheritance and Polymorphism.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/03-OOP%20Inheritance%20and%20Polymorphism.ipynb)
+   - [04-OOP Special Methods.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/04-OOP%20Special%20Methods.ipynb)
+   - [05-OOP Homework.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/05-OOP%20Homework.ipynb)
+   - [06-OOP Homework - Solutions.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/06-OOP%20Homework%20-%20Solutions.ipynb)
+
+2. **Notes on Videos - Module 8 Object-Oriented Programming:**
+   This section contains PDF notes summarising the key points from the video lectures in Module 8.
+   - [1 of 5 OOP - Introduction.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/1%20of%205%20OOP%20-%20Introduction.pdf)
+   - [2 of 5 OOP - Attributes and Methods.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/2%20of%205%20OOP%20-%20Attributes%20and%20Methods.pdf)
+   - [3 of 5 OOP - Inheritance and Polymorphism.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/3%20of%205%20OOP%20-%20Inheritance%20and%20Polymorphism.pdf)
+   - [4 of 5 OOP - Special Methods.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/4%20of%205%20OOP%20-%20Special%20Methods.pdf)
+   - [5 of 5 OOP - Homework.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/5%20of%205%20OOP%20-%20Homework.pdf)
+
+3. **Slides:**
+   This section contains the slides used in the video lectures.
+   - [Object-Oriented Programming Slides.pdf](Object-Oriented%20Programming%20Slides.pdf)
 
 ### To Clone This Repository
 ```
-git clone https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP.git
+git clone https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming.git
 ```
