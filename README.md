@@ -14,7 +14,7 @@ This repository contains my notes and project files for the eighth module of a P
 This repository is organised into the following sections:
 
 1. **Jupyter Notebooks - Object-Oriented Programming:**
-   This directory contains Jupyter notebooks that cover various aspects of object-oriented programming in Python.
+   this directory contains Jupyter notebooks that cover various aspects of object-oriented programming in Python.
    - [01-Object Oriented Programming.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/01-Object%20Oriented%20Programming.ipynb)
    - [02-OOP Attributes and Methods.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/02-OOP%20Attributes%20and%20Methods.ipynb)
    - [03-OOP Inheritance and Polymorphism.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/03-OOP%20Inheritance%20and%20Polymorphism.ipynb)
@@ -23,7 +23,7 @@ This repository is organised into the following sections:
    - [06-OOP Homework - Solutions.ipynb](Jupyter%20Notebooks%20-%20Object-Oriented%20Programming/06-OOP%20Homework%20-%20Solutions.ipynb)
 
 2. **Notes on Videos - Module 8 Object-Oriented Programming:**
-   This section contains PDF notes summarising the key points from the video lectures in Module 8.
+   this section contains PDF notes summarising the key points from the video lectures in Module 8.
    - [1 of 5 OOP - Introduction.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/1%20of%205%20OOP%20-%20Introduction.pdf)
    - [2 of 5 OOP - Attributes and Methods.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/2%20of%205%20OOP%20-%20Attributes%20and%20Methods.pdf)
    - [3 of 5 OOP - Inheritance and Polymorphism.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/3%20of%205%20OOP%20-%20Inheritance%20and%20Polymorphism.pdf)
@@ -31,7 +31,7 @@ This repository is organised into the following sections:
    - [5 of 5 OOP - Homework.pdf](Notes%20on%20Videos%20-%20Module%208%20Object-Oriented%20Programming/5%20of%205%20OOP%20-%20Homework.pdf)
 
 3. **Slides:**
-   This section contains the slides used in the video lectures.
+   this section contains the slides used in the video lectures.
    - [Object-Oriented Programming Slides.pdf](Object-Oriented%20Programming%20Slides.pdf)
 
 ### To Clone This Repository
