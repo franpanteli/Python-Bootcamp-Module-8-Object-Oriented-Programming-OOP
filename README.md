@@ -36,5 +36,5 @@ This repository is organised into the following sections:
 
 ### To Clone This Repository
 ```
-git clone https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming.git
+git clone https://github.com/franpanteli/Python-Bootcamp-Module-8-Object-Oriented-Programming-OOP.git
 ```
